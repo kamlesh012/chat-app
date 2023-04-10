@@ -49,7 +49,7 @@ Start the Client
   npm start
 ```
 
-```  
+<!--  
 # Features
 
 ### Authenticaton
@@ -77,5 +77,6 @@ Start the Client
 ### View Other user Profile
 ![](https://github.com/kamlesh012/chat-app/blob/master/screenshots/profile.PNG)
 
+-->
 
-  ```
+
